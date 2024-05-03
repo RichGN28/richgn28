@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi all!👋 My name is Ricardo. I'm currently an IT engineer student. 🏫
+I really like machine learning, AI and Data Science! 👺
 
+Skills:
+Sleep 8 hours a day (Yes, thats a skill), high problem solving performance, good management.
+
+- 🔭 I’m currently working on my first web page with django
+- 🌱 I’m currently learning python
+- 📫 Ways to reach me: IG @ricardognov
+- ⚡ Fun fact: I was first studying civil engineering but i quit for this amazing field!👷 I also have some knowledge of C! 🤓
 <!--
 **RichGN28/richgn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
