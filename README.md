@@ -1,4 +1,4 @@
-### Hi all!👋 My name is Ricardo. I'm currently an Computer Technologies engineer student. 🏫
+### Hi all!👋 My name is Ricardo. I'm currently a Computer Technologies engineer student. 🏫
 I really like machine learning, Cibersecurity and Data Science! 👺
 
 Skills:
