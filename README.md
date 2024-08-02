@@ -1,11 +1,11 @@
-### Hi all!👋 My name is Ricardo. I'm currently an IT engineer student. 🏫
-I really like machine learning, AI and Data Science! 👺
+### Hi all!👋 My name is Ricardo. I'm currently an Computer Technologies engineer student. 🏫
+I really like machine learning, Cibersecurity and Data Science! 👺
 
 Skills:
-Sleep 8 hours a day (Yes, thats a skill), high problem solving performance, good management.
+Sleep 8 hours a day (Yes, thats a skill), High problem solving performance, good management of time and resources.
 
-- 🔭 I’m currently working on my first web page with django
-- 🌱 I’m currently learning python
+- 🔭 I’m currently working in CS50 Harvard Course
+- 🌱 I’m currently learning python and SQL
 - 📫 Ways to reach me: IG @ricardognov
 - ⚡ Fun fact: I was first studying civil engineering but i quit for this amazing field!👷 I also have some knowledge of C! 🤓
 <!--
