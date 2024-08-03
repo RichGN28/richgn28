@@ -1,8 +1,8 @@
 ### Hi all!👋 My name is Ricardo. I'm currently a Computer Technologies engineer student. 🏫
-I really like machine learning, Cibersecurity and Data Science! 👺
+I really like machine learning, Cibersecurity and Data Science!
 
 Skills:
-Sleep 8 hours a day (Yes, thats a skill), High problem solving performance, good management of time and resources.
+High problem solving performance, good management of time and resources, sleep 8 hours a day (Yes, thats a skill).
 
 - 🔭 I’m currently taking CS50 Harvard Course
 - 🌱 I’m currently learning python and SQL
