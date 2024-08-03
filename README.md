@@ -6,7 +6,7 @@ High problem solving performance, good management of time and resources, sleep 8
 
 - 🔭 I’m currently taking CS50 Harvard Course
 - 🌱 I’m currently learning python and SQL
-- 📫 Ways to reach me: IG @ricardognov
+- 📫 Ways to reach me: in:ricardognov
 - ⚡ Fun fact: I was first studying civil engineering but i quit for this amazing field!👷 I also have some knowledge of C! 🤓
 <!--
 **RichGN28/richgn28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
