@@ -1,11 +1,9 @@
-### Hi all!👋 My name is Ricardo. I'm currently a Computer Technologies engineer student. 🏫
-I really like machine learning, Cibersecurity and Data Science!
+### Hi all!👋 My name is Ricardo. I'm currently a Computer Science and Technology student. 🏫
+I really like machine learning, Cibersecurity and Operating Systems!
 
 Skills:
 High problem solving performance, good management of time and resources, sleep 8 hours a day (Yes, thats a skill).
 
-- 🔭 I’m currently taking CS50 Harvard Course
-- 🌱 I’m currently learning python and SQL
 - 📫 Ways to reach me: in:ricardognov
 - ⚡ Fun fact: I was first studying civil engineering but i quit for this amazing field!👷 I also have some knowledge of C! 🤓
 <!--
